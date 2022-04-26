@@ -1,0 +1,15 @@
+/home/alex/C#/Auto/Auto/bin/Debug/net6.0/Auto
+/home/alex/C#/Auto/Auto/bin/Debug/net6.0/Auto.deps.json
+/home/alex/C#/Auto/Auto/bin/Debug/net6.0/Auto.runtimeconfig.json
+/home/alex/C#/Auto/Auto/bin/Debug/net6.0/Auto.dll
+/home/alex/C#/Auto/Auto/bin/Debug/net6.0/Auto.pdb
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/Auto.csproj.AssemblyReference.cache
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/Auto.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/Auto.AssemblyInfoInputs.cache
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/Auto.AssemblyInfo.cs
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/Auto.csproj.CoreCompileInputs.cache
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/Auto.dll
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/refint/Auto.dll
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/Auto.pdb
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/Auto.genruntimeconfig.cache
+/home/alex/C#/Auto/Auto/obj/Debug/net6.0/ref/Auto.dll
